@@ -6,6 +6,6 @@
 
 
 # 登录入口：
-·⚡永久入口：ganjuyun.com
+·⚡永久入口：<a href="https://ganjuyun.com" targer="_blank">ganjuyun.com</a>
 <br />
-·✨面板入口：ganjuyun.me
+·✨面板入口：<a href="https://ganjuyun.me" targer="_blank">ganjuyun.me</a>
