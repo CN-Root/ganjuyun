@@ -14,3 +14,9 @@
 选机场不要只是看价格和流量，也不要只看速度<br />
 主要看线路、节点质量、节点连通性<br />
 节点稳定性、节点正常率、技术支持和客服服务
+
+
+# 联系我们
+·⚡官方飞机频道：<a href="https://t.me/ganjuyun" targer="_blank">@ganjuyun</a>
+<br />
+·✨官方飞机群组：<a href="https://t.me/ganjuyunme" targer="_blank">@ganjuyunme</a>
