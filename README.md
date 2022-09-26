@@ -9,3 +9,7 @@
 ·⚡永久入口：<a href="https://ganjuyun.com" targer="_blank">ganjuyun.com</a>
 <br />
 ·✨面板入口：<a href="https://ganjuyun.me" targer="_blank">ganjuyun.me</a>
+
+选机场不要只是看价格和流量，也不要只看速度
+主要看线路、节点质量、节点连通性
+节点稳定性、节点正常率、技术支持和客服服务
